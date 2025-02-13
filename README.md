@@ -1,4 +1,4 @@
-# Aplicativo movel de cadastro de planetas
+# Aplicativo móvel de cadastro de planetas
 
 
 
